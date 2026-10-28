@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "commit": "a2bf878",
+  "appVersion": "3.16.3",
+  "cliVersion": "0.17.0",
+  "targets": [
+    "darwin-arm64",
+    "linux-x64"
+  ],
+  "builtAt": "2026-10-28T16:40:53.273Z"
+}
